@@ -1,6 +1,6 @@
 {
 	properties: {
 		AccountName: "i:0#.f|membership|admin@fleone.onmicrosoft.com",
-		WidgetPreferences: []
+		WidgetPreferences: ""
 	}
 }
